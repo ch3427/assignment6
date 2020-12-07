@@ -59,3 +59,8 @@ ggplot(D4, aes(distance, time, colour = fit.cluster)) + geom_point() + xlab("Dis
 * If you could only choose one thing to predict the score for each member of your group (raw data variable, a cluster or a PC) what would it be and why?
 * Create a visualization that supports your conclusion
 * Based on your conclusion devise an intervention that would help novice members of your group imporve their performance
+```{r}
+
+
+```
+
